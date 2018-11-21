@@ -1,0 +1,16 @@
+body{
+	background: aquamarine; 
+}
+
+#mainheading{
+	font-family: sans-serif;
+	color: blue;
+}
+
+.red{
+	color: red;
+}
+h6{
+   color: transparent;
+   text-shadow: 0 0 5px rgba(0,0,0,0.5);
+}
